@@ -14,7 +14,7 @@
     
     
 ---
-<div>
+
 ### :man_technologist: About Me :
  
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uruguay.
@@ -26,4 +26,3 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: In my free time, I play games, attempt to break my Linux distro and code
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-daniel-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/daniel-martinez-779a1224a/")
-<div/>
