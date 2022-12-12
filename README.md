@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2Fimages%2Fec0ffda9a9ed56ebfc0ff68c898061a3%2Ftenor.gif&f=1&nofb=1&ipt=27537e497059a892e2a4119514de99139084a686dc1ac3522c7ae428c86e1fdc&ipo=images" width="100px"/>
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fa5%2F35%2F60%2Fa53560c8088900e266880f779dacced7.gif&f=1&nofb=1&ipt=53fbbb35fddfdb89a8088ee44400e2c14bb3d9f399c711640e671dcde5cbb743&ipo=images" width="100"/>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/daniel-martinez-779a1224a/">
