@@ -27,7 +27,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I code, learn new technologies and attempt to break my Linux distro
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-daniel-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/daniel-martinez-779a1224a/")
 
  ---
 
