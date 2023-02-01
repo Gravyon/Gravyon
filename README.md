@@ -11,7 +11,7 @@
 </h1>
       </div>
  <div align="center">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftrends.vc%2Fwp-content%2Fuploads%2F2020%2F05%2Fezgif-2-35748dc41332.gif&f=1&nofb=1&ipt=7f8198ef154f4ff61cf97b6219aef52eaf6dce53c0c165fda86b9fb63970e0ec&ipo=images" width="600" height="300"/>
+  <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fmedia.giphy.com%2Fmedia%2FcpIvoQSU8vC9O%2Fgiphy.gif" width="600" height="300"/>
 </div>
 
     
