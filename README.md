@@ -11,7 +11,7 @@
 </h1>
       </div>
  <div align="center">
-  <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fmedia.giphy.com%2Fmedia%2FcpIvoQSU8vC9O%2Fgiphy.gif" width="600" height="300"/>
+  <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fmedia.giphy.com%2Fmedia%2FcpIvoQSU8vC9O%2Fgiphy.gif&f=1&nofb=1&ipt=7c2e75c6bc045ecd46b48608c87ea1ad75eba3cfd3f1923547fe9bcd2a625f50&ipo=images" width="600" height="300"/>
 </div>
 
     
@@ -19,7 +19,7 @@
 
 ### :man_technologist: About Me :
  
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uruguay.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   
 - :telescope: I'm currently learning TypeScript.
 
