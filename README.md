@@ -25,7 +25,7 @@ I am a Full Stack Developer
 
 - :seedling: Attempting to improve myself more and more!
 
-- :zap: In my free time, I code, learn new technologies and attempt to break my Linux distro
+- :zap: In my free time, I code, learn new technologies and attempt to break my Linux distro (I always have a backup)
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-daniel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danieljmartinezdev/)
 
