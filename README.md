@@ -21,9 +21,9 @@
  
 I am a Full Stack Developer 
   
-- :telescope: I'm currently learning TypeScript.
+- :telescope: I'm looking into learning Angular.
 
-- :seedling: Attempting to improve myself more and more!
+- :seedling: Attempting to improve myself more and more.
 
 - :zap: In my free time, I code, learn new technologies and attempt to break my Linux distro (I always have a backup)
 
