@@ -26,9 +26,9 @@ I am a web developer
   
 <div>
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gravyon&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Gravyon&theme=transparent&hide)](https://git.io/streak-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gravyon&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gravyon&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
   ### 🚀 Contribution
 <picture>
