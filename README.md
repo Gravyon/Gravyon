@@ -23,18 +23,10 @@ I am a web developer
   ---
 
 ### :fire: My Stats :
+    
+[![GitHub Streak](https://streak-stats.demolab.com?user=Gravyon&theme=transparent&hide)](https://git.io/streak-stats)
   
-<div>
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Gravyon&theme=transparent&hide)](https://git.io/streak-stats)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gravyon&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gravyon&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-  ### 🚀 Contribution
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-</div>
-
+### 🚀 Contribution
+![snake gif](https://github.com/Gravyon/Gravyon/blob/output/github-contribution-grid-snake-dark.svg)
