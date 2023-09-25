@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fa5%2F35%2F60%2Fa53560c8088900e266880f779dacced7.gif&f=1&nofb=1&ipt=53fbbb35fddfdb89a8088ee44400e2c14bb3d9f399c711640e671dcde5cbb743&ipo=images" width="200" />
 
-<div id="badges">
+<--! <div id="badges">
   <a href="https://www.linkedin.com/in/danieljmartinezdev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      </div>     
+      </div>     -->
 <h1>
   hello there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
