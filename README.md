@@ -1,6 +1,4 @@
 ## 👋 This is Daniel! <img src="./assets/horse.gif" height="20" width="20">
-
-:man_technologist: About Me :
  
 I am a web developer
   
