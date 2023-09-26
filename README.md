@@ -4,7 +4,7 @@ I am a web developer
   
 - :telescope: I'm currently learning Angular.
 
-- :zap: In my free time, I code, learn new technologies, I game and attempt to break my Linux distro (I always have a backup)
+- :zap: In my free time, I code and learn new technologies, I game and attempt to break my Linux distro (I always have a backup)
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-daniel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danieljmartinezdev/)
 
