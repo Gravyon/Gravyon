@@ -1,4 +1,4 @@
-## 👋 This is Daniel! <img src="./assets/horse.gif" height="20" width="20">
+## 👋 This is Daniel!
  
 I am a web developer
   
