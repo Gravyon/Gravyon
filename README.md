@@ -1,6 +1,6 @@
 ## 👋 This is Daniel!
  
-I am a web developer
+I am a Software Developer.
   
 - :telescope: I'm currently learning Angular.
 
