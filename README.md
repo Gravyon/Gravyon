@@ -6,7 +6,7 @@ I am a Software Developer.
 
 - :zap: In my free time, I code and learn new technologies, I'm also a gamer, when I'm bored I tweak my Linux distro and end up breaking it (I always have a backup)
 
-- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rdjmartinez95@gmail.com)
+- :mailbox:How to reach me:[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rdjmartinez95@gmail.com)
 
  ---
 
