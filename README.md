@@ -2,7 +2,7 @@
  
 I am a Software Developer.
   
-- :telescope: I'm currently learning Angular.
+- :telescope: I'm currently learning cybersecurity.
 
 - :zap: In my free time, I code and learn new technologies, I'm also a gamer, when I'm bored I tweak my Linux distro and end up breaking it (I always have a backup)
 
@@ -20,7 +20,7 @@ I am a Software Developer.
 
 ### :fire: My Stats :
     
-[![GitHub Streak](https://streak-stats.demolab.com?user=Gravyon&theme=transparent&hide)](https://git.io/streak-stats)
+# [![GitHub Streak](https://streak-stats.demolab.com?user=Gravyon&theme=transparent&hide)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gravyon&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🚀 Contribution
