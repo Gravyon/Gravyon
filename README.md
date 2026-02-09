@@ -10,7 +10,7 @@ I am a Software Developer.
 
  ### 🔭 Tech stack
 
-![Tech stack](https://skillicons.dev/icons?i=react,css,html,js,nextjs,angular,ts,nodejs,express,mongodb,python,flask,bootstrap,tailwind,java,cpp)
+![Tech stack](https://skillicons.dev/icons?i=react,css,html,js,nextjs,angular,ts,nodejs,express,mongodb,python,flask,bootstrap,tailwind)
 
 ### 🛠 Tools I use
 
