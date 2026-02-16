@@ -1,6 +1,6 @@
 - :telescope: I'm currently learning cybersecurity.
 
-- :zap: In my free time, I code and learn new technologies, I'm also a gamer, when I'm bored I tweak my Linux distro and end up breaking it (I always have a backup)
+- :zap: In my free time, I code and learn new technologies, I'm also a gamer, when I'm bored I tweak my Linux distro and end up breaking it (I always have a backup). Sometimes, I dream solutions.
 
  ---
 
